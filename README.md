@@ -1,1 +1,2 @@
-Install app to check the app
+Install app to check the app.apk
+
